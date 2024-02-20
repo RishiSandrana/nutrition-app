@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb5fbb38-d97a-4d85-a82d-b4a22642dc2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Nutrition App.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/preferences.py" afterDir="false" />
-    </list>
+    <list default="true" id="fb5fbb38-d97a-4d85-a82d-b4a22642dc2c" name="Changes" comment="Initial app structure" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,6 +119,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708284669725</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial app structure">
+      <option name="closed" value="true" />
+      <created>1708439966897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708439966897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial app structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial app structure" />
   </component>
 </project>
