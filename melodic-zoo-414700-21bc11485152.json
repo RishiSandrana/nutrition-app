@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "melodic-zoo-414700",
+  "private_key_id": "21bc114851527b0b697530ef6f9d31e3bc30250e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDA7CX1KfrwQo8l\niVB5lgRo1qX76SnAPnszLCAps5JBQkfFZ2/koozaCx8iKNfe32kcovZL0CWWB8EK\nkbJa7gF5vEAaL3yWdHyYYFIsKmc8zt1U1en8ysCZAgplLP97bB7O4T9iwGdQneEp\n0LVrumxk7dcdABN2LVcU4KlN77UU9oW+gvM+wDUwvxaKqV2xUJavn0ruZPocH/XA\nghtv0sE6xGoNd7yWo4MIQGpLdDYmIZgzidR8kSVgiFj6aH9gNLTY0wJUX8xoux49\nP+XFE8bOK9jVfPHADaei31lG6xVUx5OekrYBIOkvZFVetxyUpuCgjcmMofes5D1a\nTDZBqOBjAgMBAAECggEAA0P8CypVamZgsJdNGsHEpqxQzZ16F3Gh+ZEa+kRlNWA/\nLBg+zJ/zwmfDHyY8gTPxk4qD9hnlM6Tt9OqCb7JCVCKGSJXahgbIFSGMQoh1Nuee\n13tyJSqewqLw33A44t3xp47TLoNokZ9v2vACzNAFsFpWSdIL157s2m2dxV6eshFy\npmf5HsLwBCvDkrRQcwg9LrBBAj5NmzVltSMxufSuj6RugPSwi+5rx8uRbx/rzBUc\nJGFnjNVNeOv2HbS4fUek7mgM32C11XsA7KyA/IV2xvDfU6jFGAT71XroG7PDzr6A\nyDy683KhVxM3kc6MtN35RfXWGptXt4cWWbfyprQ4AQKBgQDv9RWbic39iKZVTAbG\nJCAlPtcH/kuofqz4toQ/tH+LvdWrhazKG70vyzFpY5kQ3zlZGuI/zgRYaj69lRu8\nkxbDxP2SBk8eyrKxOByd1n6mmGgB/jfL0adF6qj5crvCZdn/nbl6HEEuKVAadg4E\nKns/ovxsnrJCQAj6VeTk+6l5vwKBgQDN0g1zsO7Ooa+VSlp6x33unHNog/MzHMGL\n1rTjxidluIy15w5K88Daa1zfqzxRRrKn+66seR9YcuE2tAejkgJawhGa5gHv4Ygt\ntbs0nlMiRTsCGlMg03V+EvbuTcCq+D2v/H/iAb1lF30ohMlwPdwO2hS7mK3xEg42\nhgbsqVXaXQKBgQCwW9nYqgyahV9ym2DzKcPye+AAwPaMTSYF2ecTBy8i3o/281VO\nadq/EMEtKwVpsBZvFeIpcNoivVuFbNyo2RZHJjYTp81o3SM+OvZVTztgZ+0xYc1S\nYLFnIpO0Wo4Cz2bMhvi19aQ2MCjuecvNZgeVes25a12qcXPnwU9suEYT8wKBgQCG\nbuqmZCy2/linFFeg1mhkz/95hqX0/pVUdzrTg3v8LtyJe4+UWT3f7DxPQ5M0Kw9K\nNVPUB5D3vqFnj5NlvVqYWSYSnKUrP44o/Qh3x+nY+oseRn+Bc1zMqiprYJG1mksA\nhdYpkqVYQE1Zh9Hi5CS19q+QEJucWAS8jDI9piUTaQKBgCe2rGt8w2fxWFAg7Bwi\nTbBDPrzKqjQguGJAcEMgO+Bfg9oonwLX9sfDLTNehO3lAKerg6/6VXdik/+hroUC\nA/lgwqrXhFwg6NHMf97deFdn3ZJRlrbZ0Ah4G+dTttG7EaaJv2n9ljqPygr1epLu\nGS5xYtvbiHCxNsQiC5tjdK3T\n-----END PRIVATE KEY-----\n",
+  "client_email": "testaccount@melodic-zoo-414700.iam.gserviceaccount.com",
+  "client_id": "112940174469021017302",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testaccount%40melodic-zoo-414700.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
