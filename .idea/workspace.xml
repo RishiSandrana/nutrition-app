@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb5fbb38-d97a-4d85-a82d-b4a22642dc2c" name="Changes" comment="Added requirements.txt">
+    <list default="true" id="fb5fbb38-d97a-4d85-a82d-b4a22642dc2c" name="Changes" comment="added melodic-zoo-414700-21bc11485152.json">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/chatbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preferences.py" beforeDir="false" afterPath="$PROJECT_DIR$/preferences.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709514964458</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added melodic-zoo-414700-21bc11485152.json">
+      <option name="closed" value="true" />
+      <created>1709516331896</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709516331896</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +230,7 @@
     <MESSAGE value="Added memory" />
     <MESSAGE value="Integrated user preferences with LLM" />
     <MESSAGE value="Added requirements.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added requirements.txt" />
+    <MESSAGE value="added melodic-zoo-414700-21bc11485152.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="added melodic-zoo-414700-21bc11485152.json" />
   </component>
 </project>

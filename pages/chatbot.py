@@ -1,6 +1,12 @@
 import streamlit as st
 import vertexai
 
+st.session_state.age = st.session_state.age
+st.session_state.name = st.session_state.name
+st.session_state.gender = st.session_state.gender
+st.session_state.conditions = st.session_state.conditions
+st.session_state.allergies = st.session_state.allergies
+
 project_id = "melodic-zoo-414700"
 location = "us-central1"
 
