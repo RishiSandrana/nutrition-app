@@ -6,6 +6,7 @@ st.session_state.name = st.session_state.name
 st.session_state.gender = st.session_state.gender
 st.session_state.conditions = st.session_state.conditions
 st.session_state.allergies = st.session_state.allergies
+st.session_state.product = st.session_state.product
 
 project_id = "melodic-zoo-414700"
 location = "us-central1"

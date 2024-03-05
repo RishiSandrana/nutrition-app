@@ -49,7 +49,7 @@ if "conditions" not in st.session_state:
 st.session_state.conditions = st.session_state.conditions
 st.multiselect(
     'Are any of the following medical conditions applicable to you?',
-    ['Acne', 'Anxiety', 'Asthma', 'Cardiovascular Disease', 'Chronic Kidney Disease', 'Diabetes', 'Inflammation', 'Non-Alcoholic Fatty Liver Disease', 'Peridontal Disease', 'Obesity'],
+    ['Acne', 'Anxiety', 'Asthma', 'Diabetes', 'Periodontal Disease', 'Obesity'],
     key="conditions"
 )
 
@@ -58,6 +58,16 @@ if "allergies" not in st.session_state:
 
 st.session_state.allergies = st.session_state.allergies
 st.text_input('Please list any food allergies you may have (e.g., milk, eggs, peanuts):', key="allergies")
+
+if "product" not in st.session_state:
+    st.session_state.product = ""
+
+st.session_state.product = st.session_state.product
+st.text_input(
+    "Which product would you like to learn more about?",
+    key="product",
+    placeholder="20 oz Mountain Dew Baja Blast Soda Bottle"
+)
 
 button = st.button("Start chat!", type="primary")
 if button:
