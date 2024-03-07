@@ -66,12 +66,14 @@ st.session_state.product = st.session_state.product
 st.text_input(
     "Which product would you like to learn more about?",
     key="product",
-    placeholder="20 oz Mountain Dew Baja Blast Soda Bottle"
+    placeholder="20 oz Mountain Dew Baja Blast Soda Bottle",
+    disabled=True
 )
 
 button = st.button("Start chat!", type="primary")
+st.session_state.chat = st.session_state.chat
 if button:
-    llm_context = f"You are designed to answer questions about food products. The product you are being asked about is a 20 oz Mountain Dew® Baja Blast Soda Bottle. The person you're addressing is named {st.session_state.name}. {st.session_state.name} is {st.session_state.age} years old. {st.session_state.name}'s assigned gender is {st.session_state.gender}. {st.session_state.name} is affected by {st.session_state.conditions}. {st.session_state.name} is allergic to {st.session_state.allergies}. If you do not know how to answer a question, please tell {st.session_state.name} that you are unsure rather than giving an absolute answer."
+    llm_context = f"You are designed to answer questions about food products. The product you are being asked about is a 20 oz Mountain Dew® Baja Blast Soda Bottle. The person you're addressing is named {st.session_state.name}. {st.session_state.name} is {st.session_state.age} years old. {st.session_state.name}'s assigned gender is {st.session_state.gender}. {st.session_state.name} is affected by {st.session_state.conditions}. {st.session_state.name} is allergic to {st.session_state.allergies}."
     st.session_state.chat = chat_model.start_chat(
         context=llm_context,
         examples=[
